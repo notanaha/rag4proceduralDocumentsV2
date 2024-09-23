@@ -1,0 +1,11 @@
+PyPDF2
+python-dotenv
+azure-core
+azure-ai-formrecognizer
+pdf2image
+tenacity
+azure-search-documents
+azure-search
+ipython
+openai
+azure-storage-blob
